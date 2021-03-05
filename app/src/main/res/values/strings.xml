@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">計時器</string>
+  <string name="timer">計時器</string>
+  <string name="start">開始</string>
+  <string name="restart">重設</string>
+  <string name="proceed">繼續</string>
+  <string name="pause">暫停</string>
+  <string name="recorder">紀錄</string>
+</resources>
